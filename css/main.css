@@ -134,27 +134,6 @@ body {
 	padding: 0 10px;
 }
 
-/*.bar button {
-	margin: 5px 4px;
-}
-
-button {
-	font-size: 11px;
-	background: #D5DEE8;
-	height: 20px;
-	line-height: 16px;
-	border: 1px solid #2A3B4C;
-	border-radius: 3px;
-	color: #43617B;
-	font-weight: 600;
-	padding: 1px 3px;
-	cursor: pointer;
-}
-
-button:hover {
-	background: #FEF2C4;
-}*/
-
 #musiclist {
 	height: 240px;
 	background: #FFF;
